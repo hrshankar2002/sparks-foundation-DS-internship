@@ -1,1 +1,1 @@
-# sparks-foundation-DS-internship
+# Sparks Foundation DS Internship
